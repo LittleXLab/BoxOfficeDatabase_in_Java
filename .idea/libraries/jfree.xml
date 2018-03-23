@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jfree">
+    <CLASSES>
+      <root url="file://D:/Java/jre1.8.0_101/lib/ext/jfree" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/Java/jre1.8.0_101/lib/ext/jfree" recursive="false" />
+  </library>
+</component>
